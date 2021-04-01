@@ -1,0 +1,212 @@
+Office fédéral de météorologie et de climatologie, MétéoSuisse
+Operation Center 1
+Postfach 257
+8058 Zürich-Flughafen
+
+stn yyyyMMddHHmm
+
+stn Abréviation de la station
+y   Année
+M   Mois
+d   Jour
+H   Heure
+m   Minute   
+     
+Heures en UTC:           00:40 UTC = 02:40 heure d'été
+                                   = 01:40 heure d'hiver
+
+Référence du temps pour les valeurs horaires, si rien d'autre ne figure dans la description du paramètre: HH  = (HH-1):01 - HH:00
+Exemple: 13 = se réfère à la période de mesure de 12:01 à 13:00
+
+Les valeurs manquantes sont caractérisées par un '-'.
+
+Informations sur la qualité: la légende relative aux informations sur la qualité se trouve sous: https://gate.meteoswiss.ch/idaweb/text/datenqualitaet_legende_fr.pdf
+
+
+ 
+
+
+
+Stations
+--------
+stn       Nom                                  Parameter        Source de données                                  Longitude/Latitude       Coordonnées [km] Altitude [m]
+ABO       Adelboden                            gre000d0         MeteoSchweiz                                       7°34'/46°30'             609372/148939    1321
+ABO       Adelboden                            p06stads         MeteoSchweiz                                       7°34'/46°30'             609372/148939    1321
+ABO       Adelboden                            tre200d0         MeteoSchweiz                                       7°34'/46°30'             609372/148939    1321
+ABO       Adelboden                            rre150d0         MeteoSchweiz                                       7°34'/46°30'             609372/148939    1321
+ABO       Adelboden                            ure200d0         MeteoSchweiz                                       7°34'/46°30'             609372/148939    1321
+ABO       Adelboden                            sre000d0         MeteoSchweiz                                       7°34'/46°30'             609372/148939    1321
+ABO       Adelboden                            fkl010d0         MeteoSchweiz                                       7°34'/46°30'             609372/148939    1321
+ALT       Altdorf                              gre000d0         MeteoSchweiz                                       8°37'/46°53'             690180/193564    437
+ALT       Altdorf                              p06stads         MeteoSchweiz                                       8°37'/46°53'             690180/193564    437
+ALT       Altdorf                              tre200d0         MeteoSchweiz                                       8°37'/46°53'             690180/193564    437
+ALT       Altdorf                              rre150d0         MeteoSchweiz                                       8°37'/46°53'             690180/193564    437
+ALT       Altdorf                              ure200d0         MeteoSchweiz                                       8°37'/46°53'             690180/193564    437
+ALT       Altdorf                              sre000d0         MeteoSchweiz                                       8°37'/46°53'             690180/193564    437
+ALT       Altdorf                              fkl010d0         MeteoSchweiz                                       8°37'/46°53'             690180/193564    437
+BAS       Basel / Binningen                    gre000d0         MeteoSchweiz                                       7°35'/47°32'             610908/265611    316
+BAS       Basel / Binningen                    p06stads         MeteoSchweiz                                       7°35'/47°32'             610908/265611    316
+BAS       Basel / Binningen                    tre200d0         MeteoSchweiz                                       7°35'/47°32'             610908/265611    316
+BAS       Basel / Binningen                    rre150d0         MeteoSchweiz                                       7°35'/47°32'             610908/265611    316
+BAS       Basel / Binningen                    ure200d0         MeteoSchweiz                                       7°35'/47°32'             610908/265611    316
+BAS       Basel / Binningen                    sre000d0         MeteoSchweiz                                       7°35'/47°32'             610908/265611    316
+BAS       Basel / Binningen                    fkl010d0         MeteoSchweiz                                       7°35'/47°32'             610908/265611    316
+BER       Bern / Zollikofen                    gre000d0         MeteoSchweiz                                       7°28'/46°59'             601933/204409    552
+BER       Bern / Zollikofen                    p06stads         MeteoSchweiz                                       7°28'/46°59'             601933/204409    552
+BER       Bern / Zollikofen                    tre200d0         MeteoSchweiz                                       7°28'/46°59'             601933/204409    552
+BER       Bern / Zollikofen                    rre150d0         MeteoSchweiz                                       7°28'/46°59'             601933/204409    552
+BER       Bern / Zollikofen                    ure200d0         MeteoSchweiz                                       7°28'/46°59'             601933/204409    552
+BER       Bern / Zollikofen                    sre000d0         MeteoSchweiz                                       7°28'/46°59'             601933/204409    552
+BER       Bern / Zollikofen                    fkl010d0         MeteoSchweiz                                       7°28'/46°59'             601933/204409    552
+BUS       Buchs / Aarau                        gre000d0         MeteoSchweiz                                       8°05'/47°23'             648395/248369    386
+BUS       Buchs / Aarau                        p06stads         MeteoSchweiz                                       8°05'/47°23'             648395/248369    386
+BUS       Buchs / Aarau                        tre200d0         MeteoSchweiz                                       8°05'/47°23'             648395/248369    386
+BUS       Buchs / Aarau                        rre150d0         MeteoSchweiz                                       8°05'/47°23'             648395/248369    386
+BUS       Buchs / Aarau                        ure200d0         MeteoSchweiz                                       8°05'/47°23'             648395/248369    386
+BUS       Buchs / Aarau                        sre000d0         MeteoSchweiz                                       8°05'/47°23'             648395/248369    386
+BUS       Buchs / Aarau                        fkl010d0         MeteoSchweiz                                       8°05'/47°23'             648395/248369    386
+CHU       Chur                                 gre000d0         MeteoSchweiz                                       9°32'/46°52'             759465/193152    556
+CHU       Chur                                 p06stads         MeteoSchweiz                                       9°32'/46°52'             759465/193152    556
+CHU       Chur                                 tre200d0         MeteoSchweiz                                       9°32'/46°52'             759465/193152    556
+CHU       Chur                                 rre150d0         MeteoSchweiz                                       9°32'/46°52'             759465/193152    556
+CHU       Chur                                 ure200d0         MeteoSchweiz                                       9°32'/46°52'             759465/193152    556
+CHU       Chur                                 sre000d0         MeteoSchweiz                                       9°32'/46°52'             759465/193152    556
+CHU       Chur                                 fkl010d0         MeteoSchweiz                                       9°32'/46°52'             759465/193152    556
+DAV       Davos                                gre000d0         MeteoSchweiz                                       9°51'/46°49'             783518/187458    1594
+DAV       Davos                                p06stads         MeteoSchweiz                                       9°51'/46°49'             783518/187458    1594
+DAV       Davos                                tre200d0         MeteoSchweiz                                       9°51'/46°49'             783518/187458    1594
+DAV       Davos                                rre150d0         MeteoSchweiz                                       9°51'/46°49'             783518/187458    1594
+DAV       Davos                                ure200d0         MeteoSchweiz                                       9°51'/46°49'             783518/187458    1594
+DAV       Davos                                sre000d0         MeteoSchweiz                                       9°51'/46°49'             783518/187458    1594
+DAV       Davos                                fkl010d0         MeteoSchweiz                                       9°51'/46°49'             783518/187458    1594
+DIS       Disentis                             gre000d0         MeteoSchweiz                                       8°51'/46°42'             708190/173793    1197
+DIS       Disentis                             p06stads         MeteoSchweiz                                       8°51'/46°42'             708190/173793    1197
+DIS       Disentis                             tre200d0         MeteoSchweiz                                       8°51'/46°42'             708190/173793    1197
+DIS       Disentis                             rre150d0         MeteoSchweiz                                       8°51'/46°42'             708190/173793    1197
+DIS       Disentis                             ure200d0         MeteoSchweiz                                       8°51'/46°42'             708190/173793    1197
+DIS       Disentis                             sre000d0         MeteoSchweiz                                       8°51'/46°42'             708190/173793    1197
+DIS       Disentis                             fkl010d0         MeteoSchweiz                                       8°51'/46°42'             708190/173793    1197
+ENG       Engelberg                            gre000d0         MeteoSchweiz                                       8°25'/46°49'             674160/186069    1035
+ENG       Engelberg                            p06stads         MeteoSchweiz                                       8°25'/46°49'             674160/186069    1035
+ENG       Engelberg                            tre200d0         MeteoSchweiz                                       8°25'/46°49'             674160/186069    1035
+ENG       Engelberg                            rre150d0         MeteoSchweiz                                       8°25'/46°49'             674160/186069    1035
+ENG       Engelberg                            ure200d0         MeteoSchweiz                                       8°25'/46°49'             674160/186069    1035
+ENG       Engelberg                            sre000d0         MeteoSchweiz                                       8°25'/46°49'             674160/186069    1035
+ENG       Engelberg                            fkl010d0         MeteoSchweiz                                       8°25'/46°49'             674160/186069    1035
+GVE       Genève / Cointrin                    gre000d0         MeteoSchweiz                                       6°08'/46°15'             498904/122631    410
+GVE       Genève / Cointrin                    p06stads         MeteoSchweiz                                       6°08'/46°15'             498904/122631    410
+GVE       Genève / Cointrin                    tre200d0         MeteoSchweiz                                       6°08'/46°15'             498904/122631    410
+GVE       Genève / Cointrin                    rre150d0         MeteoSchweiz                                       6°08'/46°15'             498904/122631    410
+GVE       Genève / Cointrin                    ure200d0         MeteoSchweiz                                       6°08'/46°15'             498904/122631    410
+GVE       Genève / Cointrin                    sre000d0         MeteoSchweiz                                       6°08'/46°15'             498904/122631    410
+GVE       Genève / Cointrin                    fkl010d0         MeteoSchweiz                                       6°08'/46°15'             498904/122631    410
+INT       Interlaken                           gre000d0         MeteoSchweiz                                       7°52'/46°40'             633023/169092    577
+INT       Interlaken                           p06stads         MeteoSchweiz                                       7°52'/46°40'             633023/169092    577
+INT       Interlaken                           tre200d0         MeteoSchweiz                                       7°52'/46°40'             633023/169092    577
+INT       Interlaken                           rre150d0         MeteoSchweiz                                       7°52'/46°40'             633023/169092    577
+INT       Interlaken                           ure200d0         MeteoSchweiz                                       7°52'/46°40'             633023/169092    577
+INT       Interlaken                           sre000d0         MeteoSchweiz                                       7°52'/46°40'             633023/169092    577
+INT       Interlaken                           fkl010d0         MeteoSchweiz                                       7°52'/46°40'             633023/169092    577
+CDF       La Chaux-de-Fonds                    gre000d0         MeteoSchweiz                                       6°48'/47°05'             550919/214861    1017
+CDF       La Chaux-de-Fonds                    p06stads         MeteoSchweiz                                       6°48'/47°05'             550919/214861    1017
+CDF       La Chaux-de-Fonds                    tre200d0         MeteoSchweiz                                       6°48'/47°05'             550919/214861    1017
+CDF       La Chaux-de-Fonds                    rre150d0         MeteoSchweiz                                       6°48'/47°05'             550919/214861    1017
+CDF       La Chaux-de-Fonds                    ure200d0         MeteoSchweiz                                       6°48'/47°05'             550919/214861    1017
+CDF       La Chaux-de-Fonds                    sre000d0         MeteoSchweiz                                       6°48'/47°05'             550919/214861    1017
+CDF       La Chaux-de-Fonds                    fkl010d0         MeteoSchweiz                                       6°48'/47°05'             550919/214861    1017
+OTL       Locarno / Monti                      gre000d0         MeteoSchweiz                                       8°47'/46°10'             704166/114316    366
+OTL       Locarno / Monti                      p06stads         MeteoSchweiz                                       8°47'/46°10'             704166/114316    366
+OTL       Locarno / Monti                      tre200d0         MeteoSchweiz                                       8°47'/46°10'             704166/114316    366
+OTL       Locarno / Monti                      rre150d0         MeteoSchweiz                                       8°47'/46°10'             704166/114316    366
+OTL       Locarno / Monti                      ure200d0         MeteoSchweiz                                       8°47'/46°10'             704166/114316    366
+OTL       Locarno / Monti                      sre000d0         MeteoSchweiz                                       8°47'/46°10'             704166/114316    366
+OTL       Locarno / Monti                      fkl010d0         MeteoSchweiz                                       8°47'/46°10'             704166/114316    366
+LUG       Lugano                               gre000d0         MeteoSchweiz                                       8°58'/46°00'             717873/95884     273
+LUG       Lugano                               p06stads         MeteoSchweiz                                       8°58'/46°00'             717873/95884     273
+LUG       Lugano                               tre200d0         MeteoSchweiz                                       8°58'/46°00'             717873/95884     273
+LUG       Lugano                               rre150d0         MeteoSchweiz                                       8°58'/46°00'             717873/95884     273
+LUG       Lugano                               ure200d0         MeteoSchweiz                                       8°58'/46°00'             717873/95884     273
+LUG       Lugano                               sre000d0         MeteoSchweiz                                       8°58'/46°00'             717873/95884     273
+LUG       Lugano                               fkl010d0         MeteoSchweiz                                       8°58'/46°00'             717873/95884     273
+LUZ       Luzern                               gre000d0         MeteoSchweiz                                       8°18'/47°02'             665543/209849    454
+LUZ       Luzern                               p06stads         MeteoSchweiz                                       8°18'/47°02'             665543/209849    454
+LUZ       Luzern                               tre200d0         MeteoSchweiz                                       8°18'/47°02'             665543/209849    454
+LUZ       Luzern                               rre150d0         MeteoSchweiz                                       8°18'/47°02'             665543/209849    454
+LUZ       Luzern                               ure200d0         MeteoSchweiz                                       8°18'/47°02'             665543/209849    454
+LUZ       Luzern                               sre000d0         MeteoSchweiz                                       8°18'/47°02'             665543/209849    454
+LUZ       Luzern                               fkl010d0         MeteoSchweiz                                       8°18'/47°02'             665543/209849    454
+NEU       Neuchâtel                            gre000d0         MeteoSchweiz                                       6°57'/47°00'             563086/205559    485
+NEU       Neuchâtel                            p06stads         MeteoSchweiz                                       6°57'/47°00'             563086/205559    485
+NEU       Neuchâtel                            tre200d0         MeteoSchweiz                                       6°57'/47°00'             563086/205559    485
+NEU       Neuchâtel                            rre150d0         MeteoSchweiz                                       6°57'/47°00'             563086/205559    485
+NEU       Neuchâtel                            ure200d0         MeteoSchweiz                                       6°57'/47°00'             563086/205559    485
+NEU       Neuchâtel                            sre000d0         MeteoSchweiz                                       6°57'/47°00'             563086/205559    485
+NEU       Neuchâtel                            fkl010d0         MeteoSchweiz                                       6°57'/47°00'             563086/205559    485
+PIO       Piotta                               gre000d0         MeteoSchweiz                                       8°41'/46°31'             695880/152264    990
+PIO       Piotta                               p06stads         MeteoSchweiz                                       8°41'/46°31'             695880/152264    990
+PIO       Piotta                               tre200d0         MeteoSchweiz                                       8°41'/46°31'             695880/152264    990
+PIO       Piotta                               rre150d0         MeteoSchweiz                                       8°41'/46°31'             695880/152264    990
+PIO       Piotta                               ure200d0         MeteoSchweiz                                       8°41'/46°31'             695880/152264    990
+PIO       Piotta                               sre000d0         MeteoSchweiz                                       8°41'/46°31'             695880/152264    990
+PIO       Piotta                               fkl010d0         MeteoSchweiz                                       8°41'/46°31'             695880/152264    990
+PUY       Pully                                gre000d0         MeteoSchweiz                                       6°40'/46°31'             540819/151510    455
+PUY       Pully                                p06stads         MeteoSchweiz                                       6°40'/46°31'             540819/151510    455
+PUY       Pully                                tre200d0         MeteoSchweiz                                       6°40'/46°31'             540819/151510    455
+PUY       Pully                                rre150d0         MeteoSchweiz                                       6°40'/46°31'             540819/151510    455
+PUY       Pully                                ure200d0         MeteoSchweiz                                       6°40'/46°31'             540819/151510    455
+PUY       Pully                                sre000d0         MeteoSchweiz                                       6°40'/46°31'             540819/151510    455
+PUY       Pully                                fkl010d0         MeteoSchweiz                                       6°40'/46°31'             540819/151510    455
+SAM       Samedan                              gre000d0         MeteoSchweiz                                       9°53'/46°32'             787249/155685    1708
+SAM       Samedan                              p06stads         MeteoSchweiz                                       9°53'/46°32'             787249/155685    1708
+SAM       Samedan                              tre200d0         MeteoSchweiz                                       9°53'/46°32'             787249/155685    1708
+SAM       Samedan                              rre150d0         MeteoSchweiz                                       9°53'/46°32'             787249/155685    1708
+SAM       Samedan                              ure200d0         MeteoSchweiz                                       9°53'/46°32'             787249/155685    1708
+SAM       Samedan                              sre000d0         MeteoSchweiz                                       9°53'/46°32'             787249/155685    1708
+SAM       Samedan                              fkl010d0         MeteoSchweiz                                       9°53'/46°32'             787249/155685    1708
+SHA       Schaffhausen                         gre000d0         MeteoSchweiz                                       8°37'/47°41'             688702/282803    438
+SHA       Schaffhausen                         p06stads         MeteoSchweiz                                       8°37'/47°41'             688702/282803    438
+SHA       Schaffhausen                         tre200d0         MeteoSchweiz                                       8°37'/47°41'             688702/282803    438
+SHA       Schaffhausen                         rre150d0         MeteoSchweiz                                       8°37'/47°41'             688702/282803    438
+SHA       Schaffhausen                         ure200d0         MeteoSchweiz                                       8°37'/47°41'             688702/282803    438
+SHA       Schaffhausen                         sre000d0         MeteoSchweiz                                       8°37'/47°41'             688702/282803    438
+SHA       Schaffhausen                         fkl010d0         MeteoSchweiz                                       8°37'/47°41'             688702/282803    438
+SIO       Sion                                 gre000d0         MeteoSchweiz                                       7°20'/46°13'             591633/118583    482
+SIO       Sion                                 p06stads         MeteoSchweiz                                       7°20'/46°13'             591633/118583    482
+SIO       Sion                                 tre200d0         MeteoSchweiz                                       7°20'/46°13'             591633/118583    482
+SIO       Sion                                 rre150d0         MeteoSchweiz                                       7°20'/46°13'             591633/118583    482
+SIO       Sion                                 ure200d0         MeteoSchweiz                                       7°20'/46°13'             591633/118583    482
+SIO       Sion                                 sre000d0         MeteoSchweiz                                       7°20'/46°13'             591633/118583    482
+SIO       Sion                                 fkl010d0         MeteoSchweiz                                       7°20'/46°13'             591633/118583    482
+STG       St. Gallen                           gre000d0         MeteoSchweiz                                       9°24'/47°26'             747865/254588    775
+STG       St. Gallen                           p06stads         MeteoSchweiz                                       9°24'/47°26'             747865/254588    775
+STG       St. Gallen                           tre200d0         MeteoSchweiz                                       9°24'/47°26'             747865/254588    775
+STG       St. Gallen                           rre150d0         MeteoSchweiz                                       9°24'/47°26'             747865/254588    775
+STG       St. Gallen                           ure200d0         MeteoSchweiz                                       9°24'/47°26'             747865/254588    775
+STG       St. Gallen                           sre000d0         MeteoSchweiz                                       9°24'/47°26'             747865/254588    775
+STG       St. Gallen                           fkl010d0         MeteoSchweiz                                       9°24'/47°26'             747865/254588    775
+ZER       Zermatt                              gre000d0         MeteoSchweiz                                       7°45'/46°02'             624298/97574     1638
+ZER       Zermatt                              p06stads         MeteoSchweiz                                       7°45'/46°02'             624298/97574     1638
+ZER       Zermatt                              tre200d0         MeteoSchweiz                                       7°45'/46°02'             624298/97574     1638
+ZER       Zermatt                              rre150d0         MeteoSchweiz                                       7°45'/46°02'             624298/97574     1638
+ZER       Zermatt                              ure200d0         MeteoSchweiz                                       7°45'/46°02'             624298/97574     1638
+ZER       Zermatt                              sre000d0         MeteoSchweiz                                       7°45'/46°02'             624298/97574     1638
+ZER       Zermatt                              fkl010d0         MeteoSchweiz                                       7°45'/46°02'             624298/97574     1638
+SMA       Zürich / Fluntern                    gre000d0         MeteoSchweiz                                       8°34'/47°23'             685116/248065    555
+SMA       Zürich / Fluntern                    p06stads         MeteoSchweiz                                       8°34'/47°23'             685116/248065    555
+SMA       Zürich / Fluntern                    tre200d0         MeteoSchweiz                                       8°34'/47°23'             685116/248065    555
+SMA       Zürich / Fluntern                    rre150d0         MeteoSchweiz                                       8°34'/47°23'             685116/248065    555
+SMA       Zürich / Fluntern                    ure200d0         MeteoSchweiz                                       8°34'/47°23'             685116/248065    555
+SMA       Zürich / Fluntern                    sre000d0         MeteoSchweiz                                       8°34'/47°23'             685116/248065    555
+SMA       Zürich / Fluntern                    fkl010d0         MeteoSchweiz                                       8°34'/47°23'             685116/248065    555
+
+Paramètre
+---------
+          Unité                                Description
+gre000d0  W/m²                                 rayonnement global; moyenne journalière
+p06stads  hPa                                  Pression atmosphérique à l'altitude du baromètre (QFE); valeur instantanée de 6 UTC
+tre200d0  °C                                   température de l'air à 2 m du sol; moyenne journalière
+rre150d0  mm                                   précipitations; somme journalière conventionnelle 0540 - 0540 du jour suivant
+ure200d0  %                                    humidité de l'air relative à 2 m du sol; moyenne journalière
+sre000d0  min                                  durée d'ensoleillement; somme journalière
+fkl010d0  m/s                                  vitesse du vent scalaire; moyenne journalière
+
